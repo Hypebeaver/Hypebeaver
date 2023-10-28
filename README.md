@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hypebeaver
 - 👀 I’m interested in programming and pixel art
-- 🌱 I know Java, C++ and mySQL
--    (Update 10/1/2023) I’m currently learning HTML,CSS and Javascript for web development.
+- 🌱 I know Java, C, C++, javascript and mySQL
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can email me. Here is my gmail (johnlooi99@gmail.com)
 
