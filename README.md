@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hypebeaver
 - 👀 I’m interested in programming and pixel art
-- 🌱 I know Java, C, C++, typescript, javascript, HTML/CSS and mySQL
+- 🌱 I know Java, C, C++, typescript, javascript, HTML/CSS and MySQL
 - 💞️ I’m looking to collaborate on anything
 
 <!---
